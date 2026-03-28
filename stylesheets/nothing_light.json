@@ -32,7 +32,7 @@
   ],
   "@font `ndot`": [
     {
-      "src": "uri(`flex:/fonts/Ndot57-Regular.otf`)"
+      "src": "uri(`flex:/fonts/Ndot57-Regular.ttf`)"
     }
   ],
   "window": {
