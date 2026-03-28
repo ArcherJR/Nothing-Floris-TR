@@ -4,4 +4,5 @@ EN: The original Nothing Floris theme by @itsmeralph09 is a beautiful, minimalis
 TR: @itsmeralph09 tarafından yapılan orijinal Nothing Floris teması, Nothing OS'ten esinlenen harika bir tasarıma sahip. Ancak orijinal font, Türkçe karakterleri (ğ, ü, ş, İ, ö, ç) desteklemiyordu. Bu sürümde, fontu Türkçe destekli bir dot-matrix font ile değiştirdim ve tüm klavyede görsel bütünlüğü sağlamak için stil dosyalarını güncelledim.
 
 original maker: https://github.com/itsmeralph09
+
 original repo: https://github.com/itsmeralph09/nothing-floris/tree/main
