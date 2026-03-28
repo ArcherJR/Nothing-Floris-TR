@@ -1,0 +1,49 @@
+{
+  "$": "ime.extension.theme",
+  "meta": {
+    "id": "com.github.ArcherJR.nothingfloris.tr",
+    "version": "1.0.1",
+    "title": "Nothing (Turkish Font Fix)",
+    "description": "A Nothing OS-inspired theme featuring a dot-matrix font, minimalist layout, and clean monochrome design with signature red and yellow accents. Added Turkish character support for Nothing font",
+    "keywords": [
+      "Nothing",
+      "Turkish",
+      "FlorisBoard"
+    ],
+    "homepage": "https://github.com/ArcherJR/Nothing-Floris-TR",
+    "issueTracker": "https://github.com/ArcherJR/Nothing-Floris-TR/issues",
+    "maintainers": [
+      "ArcherJR"
+    ],
+    "license": "MIT"
+  },
+  "themes": [
+    {
+      "id": "nothing_light",
+      "label": "Nothing Light (TR)",
+      "authors": [
+        "ArcherJR",
+        "itsmeralph09"
+      ],
+      "isNight": false,
+      "materialYouFlags": {
+        "paletteStyle": "Neutral",
+        "contrastLevel": "High",
+        "specVersion": "SPEC_2021"
+      }
+    },
+    {
+      "id": "nothing_dark",
+      "label": "Nothing Dark (TR)",
+      "authors": [
+        "ArcherJR",
+        "itsmeralph09"
+      ],
+      "materialYouFlags": {
+        "paletteStyle": "Neutral",
+        "contrastLevel": "High",
+        "specVersion": "SPEC_2021"
+      }
+    }
+  ]
+}
